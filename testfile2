@@ -1,0 +1,10 @@
+# p2g3 #
+whole cat := 99;
+whole frog := 23;
+program
+begin
+#wyatt wolf#
+   whole yx := 5 ;
+   assign yx = (yx * 5 - 3 + 8) * frog / : 11 ;
+   output yx ;
+end
